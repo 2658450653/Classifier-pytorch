@@ -1,6 +1,6 @@
 # Classifier-pytorch
 ## Description
-` Recurrence this models or modules by python
+**Recurrence these models or modules by python**
 ## Model List:
 - Convolution Model
 - - ResNet18
